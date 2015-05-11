@@ -5,7 +5,7 @@ This project is learning cmake
 
 ##Build
 
-    cmake
+    cmake ./
     make
 
 ##Run
