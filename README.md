@@ -1,6 +1,5 @@
 #civil - c/c++ server - getting idea
-Best in Fedora/RHEL/CentOS
-This project is learning cmake
+Development, run on Fedora/RHEL/CentOS
 
 ##Installation
 
