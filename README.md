@@ -45,5 +45,5 @@ Development, run on Fedora/RHEL/CentOS
 ##Run    
 
     service nginx start
-    spawn-fcgi -p 8000 -n dest/main  &  
+    spawn-fcgi -p 8000 -n dest/main &  
     curl 127.0.0.1:8003
